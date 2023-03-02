@@ -1,0 +1,300 @@
+{
+  "Uuid": "608bc351-fd80-4ab0-b3d8-437613719788",
+  "IsCustomNode": false,
+  "Description": "",
+  "Name": "ЦК_М3_Python и Визуальное программирование_Тема-3_Лекция 3.6 Подключение к nanocad",
+  "ElementResolver": {
+    "ResolutionMap": {}
+  },
+  "Inputs": [],
+  "Outputs": [],
+  "Nodes": [
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "DynNCAD.App.Application.Application",
+      "Id": "0990cd395b144051a6482018b6091253",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "bb57a5756328464cbbb213baeeee9aef",
+          "Name": "Application",
+          "Description": "Application",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Application.Application ( ): Application"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "DynNCAD.App.Application.Caption",
+      "Id": "a347a23aba1340428f875b0e26196b77",
+      "Inputs": [
+        {
+          "Id": "521846b9ddfb46e2b69259406911f765",
+          "Name": "application",
+          "Description": "DynNCAD.App.Application",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "c9a36288cd1146a9b6b340a0d071460b",
+          "Name": "string",
+          "Description": "string",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Заголовок окна приложения\n\nApplication.Caption: string"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "DynNCAD.App.Document.Document@DynNCAD.App.Application",
+      "Id": "46c9c85acecc4375a14f71c694751efb",
+      "Inputs": [
+        {
+          "Id": "a845f24b43dd4015ae6b99afd233ba0b",
+          "Name": "Application",
+          "Description": "Application",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "39cc0c65ff06489bb8de808261b76bb4",
+          "Name": "Document",
+          "Description": "Document",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Получает активный документ (проект)\n\nDocument.Document (Application: Application): Document"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "DynNCAD.App.Document.FullName",
+      "Id": "379b3c66539a4359b91a016a25de6ecc",
+      "Inputs": [
+        {
+          "Id": "d82566cea34e44c4b85af3c861f7e0a6",
+          "Name": "document",
+          "Description": "DynNCAD.App.Document",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "2243f64d0dca49bba82e09b8bfcb64fe",
+          "Name": "string",
+          "Description": "string",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Получение полного пути к документу\n\nDocument.FullName: string"
+    },
+    {
+      "ConcreteType": "PythonNodeModels.PythonNode, PythonNodeModels",
+      "NodeType": "PythonScriptNode",
+      "Code": "OUT = IN[0]._i.Name",
+      "Engine": "IronPython2",
+      "EngineName": "IronPython2",
+      "VariableInputPorts": true,
+      "Id": "04fc3296f6354c10a0cb2a36c59d099f",
+      "Inputs": [
+        {
+          "Id": "ae8d95523215434289e89994ec781bb7",
+          "Name": "IN[0]",
+          "Description": "Input #0",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "695e34b3a64c4eb8b568070e4d8526d9",
+          "Name": "OUT",
+          "Description": "Результат сценария Python",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Выполнение встроенного сценария Python."
+    }
+  ],
+  "Connectors": [
+    {
+      "Start": "bb57a5756328464cbbb213baeeee9aef",
+      "End": "521846b9ddfb46e2b69259406911f765",
+      "Id": "1b0eb40295754ae5894e74004a4ccd1e",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "bb57a5756328464cbbb213baeeee9aef",
+      "End": "a845f24b43dd4015ae6b99afd233ba0b",
+      "Id": "c28df2bbff994fa8ae2f8bbb14019c83",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "39cc0c65ff06489bb8de808261b76bb4",
+      "End": "d82566cea34e44c4b85af3c861f7e0a6",
+      "Id": "fd4463baa6f84237a1200399ba26387c",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "39cc0c65ff06489bb8de808261b76bb4",
+      "End": "ae8d95523215434289e89994ec781bb7",
+      "Id": "d60c9e036db74892b5aaeeceb1cd8a8b",
+      "IsHidden": "False"
+    }
+  ],
+  "Dependencies": [],
+  "NodeLibraryDependencies": [
+    {
+      "Name": "DynNCAD",
+      "Version": "2.0.0",
+      "ReferenceType": "Package",
+      "Nodes": [
+        "0990cd395b144051a6482018b6091253",
+        "a347a23aba1340428f875b0e26196b77",
+        "46c9c85acecc4375a14f71c694751efb",
+        "379b3c66539a4359b91a016a25de6ecc"
+      ]
+    },
+    {
+      "Name": "ps_demo_1.dwg",
+      "ReferenceType": "External",
+      "Nodes": [
+        "379b3c66539a4359b91a016a25de6ecc"
+      ]
+    }
+  ],
+  "Thumbnail": "",
+  "GraphDocumentationURL": null,
+  "ExtensionWorkspaceData": [
+    {
+      "ExtensionGuid": "28992e1d-abb9-417f-8b1b-05e053bee670",
+      "Name": "Свойства",
+      "Version": "2.17",
+      "Data": {}
+    }
+  ],
+  "Author": "",
+  "Linting": {
+    "activeLinter": "Нет",
+    "activeLinterId": "7b75fb44-43fd-4631-a878-29f4d5d8399a",
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  "Bindings": [],
+  "View": {
+    "Dynamo": {
+      "ScaleFactor": 1.0,
+      "HasRunWithoutCrash": true,
+      "IsVisibleInDynamoLibrary": true,
+      "Version": "2.17.0.3472",
+      "RunType": "Manual",
+      "RunPeriod": "1000"
+    },
+    "Camera": {
+      "Name": "_Фоновый просмотр",
+      "EyeX": -17.0,
+      "EyeY": 24.0,
+      "EyeZ": 50.0,
+      "LookX": 12.0,
+      "LookY": -13.0,
+      "LookZ": -58.0,
+      "UpX": 0.0,
+      "UpY": 1.0,
+      "UpZ": 0.0
+    },
+    "ConnectorPins": [],
+    "NodeViews": [
+      {
+        "Name": "Application.Application",
+        "ShowGeometry": true,
+        "Id": "0990cd395b144051a6482018b6091253",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 751.0,
+        "Y": 448.0
+      },
+      {
+        "Name": "Application.Caption",
+        "ShowGeometry": true,
+        "Id": "a347a23aba1340428f875b0e26196b77",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1115.1518519099307,
+        "Y": 447.86233676724839
+      },
+      {
+        "Name": "Document.Document",
+        "ShowGeometry": true,
+        "Id": "46c9c85acecc4375a14f71c694751efb",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1110.686158028077,
+        "Y": 589.87302766000312
+      },
+      {
+        "Name": "Document.FullName",
+        "ShowGeometry": true,
+        "Id": "379b3c66539a4359b91a016a25de6ecc",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1426.36875495415,
+        "Y": 446.58620585746718
+      },
+      {
+        "Name": "Python Script",
+        "ShowGeometry": true,
+        "Id": "04fc3296f6354c10a0cb2a36c59d099f",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1438.2681847010329,
+        "Y": 647.37281640837
+      }
+    ],
+    "Annotations": [],
+    "X": -775.14037238321748,
+    "Y": -277.55694486423386,
+    "Zoom": 1.130842140625
+  }
+}
