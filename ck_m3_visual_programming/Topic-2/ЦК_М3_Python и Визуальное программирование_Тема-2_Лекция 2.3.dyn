@@ -1,0 +1,527 @@
+{
+  "Uuid": "8d298e56-0aa9-478c-a142-6bc54bc848b8",
+  "IsCustomNode": false,
+  "Description": "",
+  "Name": "ЦК_М3_Python и Визуальное программирование_Тема-2_Лекция 2.3",
+  "ElementResolver": {
+    "ResolutionMap": {}
+  },
+  "Inputs": [],
+  "Outputs": [],
+  "Nodes": [
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "Autodesk.AutoCAD.DynamoNodes.Document.Current",
+      "Id": "60f96328bb4d44ad962d17713eaf208d",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "256e5966578d4505b6cd649ca70e00c8",
+          "Name": "Document",
+          "Description": "Document",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Получение текущего документа AutoCAD.\n\nDocument.Current: Document"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "Autodesk.AutoCAD.DynamoNodes.Document.ModelSpace",
+      "Id": "88118825b7b84cf9aee4b885193bbfab",
+      "Inputs": [
+        {
+          "Id": "88399761dc89438db2352457ca71edd4",
+          "Name": "document",
+          "Description": "Autodesk.AutoCAD.DynamoNodes.Document",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "f6b5caec418740daac00f4204fdb1c0c",
+          "Name": "Block",
+          "Description": "Block",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Получение записи таблицы для блоков пространства модели.\n\nDocument.ModelSpace: Block"
+    },
+    {
+      "ConcreteType": "Autodesk.AutoCAD.DynamoNodes.AcObjectsOfType, AutoCADNodesUI",
+      "NodeType": "ExtensionNode",
+      "Id": "57da790b5b9c4bf380c9bcff341ecff4",
+      "Inputs": [
+        {
+          "Id": "94e03501e1c042c9b37b9c4f25d61d8f",
+          "Name": "type",
+          "Description": "",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "681cd85ac7cc440ab1e75d3e24031267",
+          "Name": "block",
+          "Description": "",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "897f7579e8f84e0797a6a167467589ea",
+          "Name": "Object[]",
+          "Description": "Object[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Выберите все объекты данного типа."
+    },
+    {
+      "ConcreteType": "Autodesk.AutoCAD.DynamoNodes.AcObjectTypes, AutoCADNodesUI",
+      "SelectedIndex": 5,
+      "SelectedString": "Многострочный текст",
+      "NodeType": "ExtensionNode",
+      "Id": "fbc9fd996b8a42d0827200ee6278c342",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "47bf68a5a44946c185ae38b919d510d9",
+          "Name": "Object Type",
+          "Description": "string",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Выбор типа объекта."
+    },
+    {
+      "ConcreteType": "Autodesk.AutoCAD.DynamoNodes.AcObjectsOfType, AutoCADNodesUI",
+      "NodeType": "ExtensionNode",
+      "Id": "b1f04a09278a4467851a450cf01da69b",
+      "Inputs": [
+        {
+          "Id": "7a30f265b527418ba73e0ab570fea79e",
+          "Name": "type",
+          "Description": "",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "b6be4f71088a45f9b1da52ffd128a238",
+          "Name": "block",
+          "Description": "",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "b600334a7722429798fe9c518b67ee11",
+          "Name": "Object[]",
+          "Description": "Object[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Выберите все объекты данного типа."
+    },
+    {
+      "ConcreteType": "Autodesk.AutoCAD.DynamoNodes.AcObjectTypes, AutoCADNodesUI",
+      "SelectedIndex": 11,
+      "SelectedString": "Текст",
+      "NodeType": "ExtensionNode",
+      "Id": "3eaa76145c134965bddbb8e706fab556",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "1e1bee9d920b45b397f1f2999834bbaf",
+          "Name": "Object Type",
+          "Description": "string",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Выбор типа объекта."
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSVarArgFunction, DynamoCore",
+      "FunctionSignature": "DSCore.List.Join@var[]..[]",
+      "FunctionType": "VariableArgument",
+      "NodeType": "FunctionNode",
+      "Id": "9d0151b419034b9fa5b9408b3eb20bd0",
+      "Inputs": [
+        {
+          "Id": "85c6beeac8cb4e959ba730b2ff3661a6",
+          "Name": "list0",
+          "Description": "Списки для объединения в один.\n\nvar[]..[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "ce953de1bf194d35b36e11888902c69b",
+          "Name": "list1",
+          "Description": "var[]..[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "dd71efef7b4148a081296201f9e376f1",
+          "Name": "list",
+          "Description": "Объединенный список.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Объединение всех имеющихся списков в один.\n\nList.Join (lists: var[]..[]): var[]..[]"
+    },
+    {
+      "ConcreteType": "PythonNodeModels.PythonNode, PythonNodeModels",
+      "NodeType": "PythonScriptNode",
+      "Code": "# Load the Python Standard and DesignScript Libraries\r\nimport sys\r\nimport clr\r\n\r\n# Add Assemblies for AutoCAD and Civil3D\r\nclr.AddReference('AcMgd')\r\nclr.AddReference('AcCoreMgd')\r\nclr.AddReference('AcDbMgd')\r\nclr.AddReference('AecBaseMgd')\r\nclr.AddReference('AecPropDataMgd')\r\nclr.AddReference('AeccDbMgd')\r\n\r\n# Import references from AutoCAD\r\nfrom Autodesk.AutoCAD.Runtime import *\r\nfrom Autodesk.AutoCAD.ApplicationServices import *\r\nfrom Autodesk.AutoCAD.EditorInput import *\r\nfrom Autodesk.AutoCAD.DatabaseServices import *\r\nfrom Autodesk.AutoCAD.Geometry import *\r\n\r\n# Import references from Civil3D\r\nfrom Autodesk.Civil.ApplicationServices import *\r\nfrom Autodesk.Civil.DatabaseServices import *\r\n\r\n# The inputs to this node will be stored as a list in the IN variables.\r\nobjects_list = IN[0]\r\nto_value_rotate = IN[1]\r\ntext_data = list()\r\n\r\nadoc = Application.DocumentManager.MdiActiveDocument\r\neditor = adoc.Editor\r\n\r\nwith adoc.LockDocument():\r\n    with adoc.Database as db:\r\n\r\n        with db.TransactionManager.StartTransaction() as t:\r\n            # Place your code below\r\n            for one_object in objects_list:\r\n                item_handle = one_object.Handle\r\n                item_object_id = db.GetObjectId(False, Handle(int(item_handle, 16)), 0)\r\n                item_db_object = t.GetObject(item_object_id, OpenMode.ForWrite)\r\n                if \"MText\" in str(type(one_object)):\r\n                    item_db_object.Rotation = to_value_rotate\r\n                    text_data.Add(item_db_object.Contents)\r\n                elif \"Text\" in str(type(one_object)):\r\n                    item_db_object.Rotation = to_value_rotate\r\n                    text_data.Add(item_db_object.TextString)\r\n            t.Commit()\r\n# Assign your output to the OUT variable.\r\nOUT = text_data",
+      "Engine": "IronPython2",
+      "VariableInputPorts": true,
+      "Id": "f4f66c489ef245fb9dee4fe2853f3af5",
+      "Inputs": [
+        {
+          "Id": "cde73a9631654b2da52b2c3d8e140909",
+          "Name": "IN[0]",
+          "Description": "Input #0",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "acc9f10507b549f980df2412b3540f65",
+          "Name": "IN[1]",
+          "Description": "Input #1",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "2fdd1cf8d6ac41adaa57869a112de149",
+          "Name": "OUT",
+          "Description": "Результат сценария Python",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Выполнение встроенного сценария Python."
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.CodeBlockNodeModel, DynamoCore",
+      "NodeType": "CodeBlockNode",
+      "Code": "0;",
+      "Id": "a8c2f1eff3b44fc59acdfdba66e3b494",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "45444e35eabe402f926f28e211286956",
+          "Name": "",
+          "Description": "Значение выражения в строке 1",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Обеспечивает возможность непосредственного авторства кода DesignScript"
+    }
+  ],
+  "Connectors": [
+    {
+      "Start": "256e5966578d4505b6cd649ca70e00c8",
+      "End": "88399761dc89438db2352457ca71edd4",
+      "Id": "a2307bc63e134e26b2924bb95016432d",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "f6b5caec418740daac00f4204fdb1c0c",
+      "End": "681cd85ac7cc440ab1e75d3e24031267",
+      "Id": "0412675e4f044d90aba85e51b9fabafc",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "f6b5caec418740daac00f4204fdb1c0c",
+      "End": "b6be4f71088a45f9b1da52ffd128a238",
+      "Id": "7f3f133787d049a99b908160bc6a4234",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "897f7579e8f84e0797a6a167467589ea",
+      "End": "85c6beeac8cb4e959ba730b2ff3661a6",
+      "Id": "955915f35fc541ab90f91d47ffcdb0c4",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "47bf68a5a44946c185ae38b919d510d9",
+      "End": "94e03501e1c042c9b37b9c4f25d61d8f",
+      "Id": "6eb4db8002ee48c79e0f1a06e3a6141b",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "b600334a7722429798fe9c518b67ee11",
+      "End": "ce953de1bf194d35b36e11888902c69b",
+      "Id": "9a307c6887aa4549bf6a17ce1471d85a",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "1e1bee9d920b45b397f1f2999834bbaf",
+      "End": "7a30f265b527418ba73e0ab570fea79e",
+      "Id": "5c0fcd6aefce4d29bc5f40d16cc405d5",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "dd71efef7b4148a081296201f9e376f1",
+      "End": "cde73a9631654b2da52b2c3d8e140909",
+      "Id": "0196f47a5d0e42b69163c45c7194306b",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "45444e35eabe402f926f28e211286956",
+      "End": "acc9f10507b549f980df2412b3540f65",
+      "Id": "007a59350dd54e1daf7557950ed7e800",
+      "IsHidden": "False"
+    }
+  ],
+  "Dependencies": [],
+  "NodeLibraryDependencies": [],
+  "Thumbnail": "",
+  "GraphDocumentationURL": null,
+  "ExtensionWorkspaceData": [
+    {
+      "ExtensionGuid": "28992e1d-abb9-417f-8b1b-05e053bee670",
+      "Name": "Properties",
+      "Version": "2.13",
+      "Data": {}
+    }
+  ],
+  "Author": "",
+  "Linting": {
+    "activeLinter": "Нет",
+    "activeLinterId": "7b75fb44-43fd-4631-a878-29f4d5d8399a",
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  "Bindings": [],
+  "View": {
+    "Dynamo": {
+      "ScaleFactor": 1.0,
+      "HasRunWithoutCrash": true,
+      "IsVisibleInDynamoLibrary": true,
+      "Version": "2.13.1.3887",
+      "RunType": "Manual",
+      "RunPeriod": "1000"
+    },
+    "Camera": {
+      "Name": "Фоновый просмотр",
+      "EyeX": -17.0,
+      "EyeY": 24.0,
+      "EyeZ": 50.0,
+      "LookX": 12.0,
+      "LookY": -13.0,
+      "LookZ": -58.0,
+      "UpX": 0.0,
+      "UpY": 1.0,
+      "UpZ": 0.0
+    },
+    "ConnectorPins": [],
+    "NodeViews": [
+      {
+        "Name": "Document.Current",
+        "ShowGeometry": true,
+        "Id": "60f96328bb4d44ad962d17713eaf208d",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 56.083258770314387,
+        "Y": 311.13524352408342
+      },
+      {
+        "Name": "Document.ModelSpace",
+        "ShowGeometry": true,
+        "Id": "88118825b7b84cf9aee4b885193bbfab",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 341.5330757602452,
+        "Y": 308.80578067241572
+      },
+      {
+        "Name": "All Objects of Type",
+        "ShowGeometry": true,
+        "Id": "57da790b5b9c4bf380c9bcff341ecff4",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 859.86228544253106,
+        "Y": 326.19080133628523
+      },
+      {
+        "Name": "Objects Types",
+        "ShowGeometry": true,
+        "Id": "fbc9fd996b8a42d0827200ee6278c342",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 406.74608313850581,
+        "Y": 521.79582582782962
+      },
+      {
+        "Name": "All Objects of Type",
+        "ShowGeometry": true,
+        "Id": "b1f04a09278a4467851a450cf01da69b",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 904.28546482227887,
+        "Y": 683.010170820497
+      },
+      {
+        "Name": "Objects Types",
+        "ShowGeometry": true,
+        "Id": "3eaa76145c134965bddbb8e706fab556",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 438.81355685517747,
+        "Y": 724.45541187401864
+      },
+      {
+        "Name": "List.Join",
+        "ShowGeometry": true,
+        "Id": "9d0151b419034b9fa5b9408b3eb20bd0",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1262.7648033982532,
+        "Y": 571.64913272072
+      },
+      {
+        "Name": "Python Script",
+        "ShowGeometry": true,
+        "Id": "f4f66c489ef245fb9dee4fe2853f3af5",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1966.1674264763258,
+        "Y": 778.04160840382121
+      },
+      {
+        "Name": "Code Block",
+        "ShowGeometry": true,
+        "Id": "a8c2f1eff3b44fc59acdfdba66e3b494",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1700.2649884490315,
+        "Y": 759.30609559289974
+      }
+    ],
+    "Annotations": [
+      {
+        "Id": "880d31e09c1141188c534e9028672853",
+        "Title": "Формирование списка Текст и МТекст в чертеже",
+        "DescriptionText": "<Дважды нажмите здесь, чтобы изменить описание группы>",
+        "IsExpanded": true,
+        "WidthAdjustment": 0.0,
+        "HeightAdjustment": 0.0,
+        "Nodes": [
+          "60f96328bb4d44ad962d17713eaf208d",
+          "88118825b7b84cf9aee4b885193bbfab",
+          "57da790b5b9c4bf380c9bcff341ecff4",
+          "fbc9fd996b8a42d0827200ee6278c342",
+          "b1f04a09278a4467851a450cf01da69b",
+          "3eaa76145c134965bddbb8e706fab556",
+          "9d0151b419034b9fa5b9408b3eb20bd0"
+        ],
+        "HasNestedGroups": false,
+        "Left": 46.083258770314387,
+        "Top": 235.80578067241572,
+        "Width": 1373.6815446279388,
+        "Height": 620.64963120160292,
+        "FontSize": 36.0,
+        "InitialTop": 308.80578067241572,
+        "InitialHeight": 723.95809874806559,
+        "TextblockHeight": 63.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "4efa64cf8bc0427d9d8c054fded51b33",
+        "Title": "Изменение угла поворота текстов",
+        "DescriptionText": "<Дважды нажмите здесь, чтобы изменить описание группы>",
+        "IsExpanded": true,
+        "WidthAdjustment": 0.0,
+        "HeightAdjustment": 0.0,
+        "Nodes": [
+          "f4f66c489ef245fb9dee4fe2853f3af5",
+          "a8c2f1eff3b44fc59acdfdba66e3b494"
+        ],
+        "HasNestedGroups": false,
+        "Left": 1690.2649884490315,
+        "Top": 643.30609559289974,
+        "Width": 459.90243802729447,
+        "Height": 296.73551281092148,
+        "FontSize": 36.0,
+        "InitialTop": 759.30609559289974,
+        "InitialHeight": 163.73551281092148,
+        "TextblockHeight": 106.0,
+        "Background": "#FFB9F9E1"
+      }
+    ],
+    "X": -584.527825661577,
+    "Y": -314.66160149787015,
+    "Zoom": 0.7799709793958236
+  }
+}
