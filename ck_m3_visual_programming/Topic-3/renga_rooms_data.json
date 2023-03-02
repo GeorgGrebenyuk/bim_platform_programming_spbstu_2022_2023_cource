@@ -1,0 +1,1865 @@
+{
+   "159123": {
+      "level_name": "±0,000 - 1",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "Д",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "31.629999999999995",
+         "NetWallArea": "58.68209999999999",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "-4.547473508864641e-16",
+         "RelativeObjectTopElevation": "2.8"
+      }
+   },
+   "159124": {
+      "level_name": "±0,000 - 1",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "Д",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "72.8",
+         "GrossCeilingArea": "38.87999999999998",
+         "NetPerimeter": "25.029999999999998",
+         "NetWallArea": "58.94209999999998",
+         "NetCeilingArea": "38.87999999999999",
+         "GrossPerimeter": "26.0",
+         "GrossFloorArea": "38.87999999999998",
+         "GrossVolume": "108.86399999999999",
+         "RelativeObjectBottomElevation": "-4.547473508864641e-16",
+         "RelativeObjectTopElevation": "2.8"
+      }
+   },
+   "190116": {
+      "level_name": "±0,000 - 1",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "Д",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "31.63",
+         "NetWallArea": "58.6821",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "-4.547473508864641e-16",
+         "RelativeObjectTopElevation": "2.8"
+      }
+   },
+   "190364": {
+      "level_name": "±0,000 - 1",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "Д",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "31.629999999999992",
+         "NetWallArea": "58.682099999999984",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "-4.547473508864641e-16",
+         "RelativeObjectTopElevation": "2.8"
+      }
+   },
+   "190365": {
+      "level_name": "±0,000 - 1",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "Д",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "31.629999999999992",
+         "NetWallArea": "58.6821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "-4.547473508864641e-16",
+         "RelativeObjectTopElevation": "2.8"
+      }
+   },
+   "490692": {
+      "level_name": "+21,000 - 8",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "21.0",
+         "RelativeObjectTopElevation": "23.8"
+      }
+   },
+   "490693": {
+      "level_name": "+21,000 - 8",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "21.0",
+         "RelativeObjectTopElevation": "23.8"
+      }
+   },
+   "490694": {
+      "level_name": "+21,000 - 8",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "21.0",
+         "RelativeObjectTopElevation": "23.8"
+      }
+   },
+   "490695": {
+      "level_name": "+21,000 - 8",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000002",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "21.0",
+         "RelativeObjectTopElevation": "23.8"
+      }
+   },
+   "490696": {
+      "level_name": "+21,000 - 8",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "21.0",
+         "RelativeObjectTopElevation": "23.8"
+      }
+   },
+   "490697": {
+      "level_name": "+24,000 - 9",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "24.0",
+         "RelativeObjectTopElevation": "26.8"
+      }
+   },
+   "490698": {
+      "level_name": "+24,000 - 9",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "24.0",
+         "RelativeObjectTopElevation": "26.8"
+      }
+   },
+   "490699": {
+      "level_name": "+24,000 - 9",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "24.0",
+         "RelativeObjectTopElevation": "26.8"
+      }
+   },
+   "490700": {
+      "level_name": "+24,000 - 9",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "24.0",
+         "RelativeObjectTopElevation": "26.8"
+      }
+   },
+   "490701": {
+      "level_name": "+24,000 - 9",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "24.0",
+         "RelativeObjectTopElevation": "26.8"
+      }
+   },
+   "490702": {
+      "level_name": "+27,000 - 10",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "27.0",
+         "RelativeObjectTopElevation": "29.8"
+      }
+   },
+   "490703": {
+      "level_name": "+27,000 - 10",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "27.0",
+         "RelativeObjectTopElevation": "29.8"
+      }
+   },
+   "490704": {
+      "level_name": "+27,000 - 10",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "27.0",
+         "RelativeObjectTopElevation": "29.8"
+      }
+   },
+   "490705": {
+      "level_name": "+27,000 - 10",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "27.0",
+         "RelativeObjectTopElevation": "29.8"
+      }
+   },
+   "490706": {
+      "level_name": "+27,000 - 10",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "27.0",
+         "RelativeObjectTopElevation": "29.8"
+      }
+   },
+   "490707": {
+      "level_name": "+30,000 - 11",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "30.0",
+         "RelativeObjectTopElevation": "32.8"
+      }
+   },
+   "490708": {
+      "level_name": "+30,000 - 11",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "30.0",
+         "RelativeObjectTopElevation": "32.8"
+      }
+   },
+   "490709": {
+      "level_name": "+30,000 - 11",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "30.0",
+         "RelativeObjectTopElevation": "32.8"
+      }
+   },
+   "490710": {
+      "level_name": "+30,000 - 11",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000002",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "30.0",
+         "RelativeObjectTopElevation": "32.8"
+      }
+   },
+   "490711": {
+      "level_name": "+30,000 - 11",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "30.0",
+         "RelativeObjectTopElevation": "32.8"
+      }
+   },
+   "490712": {
+      "level_name": "+33,000 - 12",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "33.0",
+         "RelativeObjectTopElevation": "35.800000000000004"
+      }
+   },
+   "490713": {
+      "level_name": "+33,000 - 12",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.230000000000004",
+         "NetWallArea": "56.8221",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "33.0",
+         "RelativeObjectTopElevation": "35.800000000000004"
+      }
+   },
+   "490714": {
+      "level_name": "+33,000 - 12",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "33.0",
+         "RelativeObjectTopElevation": "35.800000000000004"
+      }
+   },
+   "490715": {
+      "level_name": "+33,000 - 12",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000002",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "33.0",
+         "RelativeObjectTopElevation": "35.800000000000004"
+      }
+   },
+   "490716": {
+      "level_name": "+33,000 - 12",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.782100000000014",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "33.0",
+         "RelativeObjectTopElevation": "35.800000000000004"
+      }
+   },
+   "490717": {
+      "level_name": "+36,000 - 13",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "36.0",
+         "RelativeObjectTopElevation": "38.800000000000004"
+      }
+   },
+   "490718": {
+      "level_name": "+36,000 - 13",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "36.0",
+         "RelativeObjectTopElevation": "38.800000000000004"
+      }
+   },
+   "490719": {
+      "level_name": "+36,000 - 13",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "36.0",
+         "RelativeObjectTopElevation": "38.800000000000004"
+      }
+   },
+   "490720": {
+      "level_name": "+36,000 - 13",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "36.0",
+         "RelativeObjectTopElevation": "38.800000000000004"
+      }
+   },
+   "490721": {
+      "level_name": "+36,000 - 13",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "36.0",
+         "RelativeObjectTopElevation": "38.800000000000004"
+      }
+   },
+   "490722": {
+      "level_name": "+39,000 - 14",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "39.0",
+         "RelativeObjectTopElevation": "41.800000000000004"
+      }
+   },
+   "490723": {
+      "level_name": "+39,000 - 14",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "39.0",
+         "RelativeObjectTopElevation": "41.800000000000004"
+      }
+   },
+   "490724": {
+      "level_name": "+39,000 - 14",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "39.0",
+         "RelativeObjectTopElevation": "41.800000000000004"
+      }
+   },
+   "490725": {
+      "level_name": "+39,000 - 14",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "39.0",
+         "RelativeObjectTopElevation": "41.800000000000004"
+      }
+   },
+   "490726": {
+      "level_name": "+39,000 - 14",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "39.0",
+         "RelativeObjectTopElevation": "41.800000000000004"
+      }
+   },
+   "490727": {
+      "level_name": "+42,000 - 15",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "42.0",
+         "RelativeObjectTopElevation": "44.800000000000004"
+      }
+   },
+   "490728": {
+      "level_name": "+42,000 - 15",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.8221",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "42.0",
+         "RelativeObjectTopElevation": "44.800000000000004"
+      }
+   },
+   "490729": {
+      "level_name": "+42,000 - 15",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "42.0",
+         "RelativeObjectTopElevation": "44.800000000000004"
+      }
+   },
+   "490730": {
+      "level_name": "+42,000 - 15",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.782100000000014",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "42.0",
+         "RelativeObjectTopElevation": "44.800000000000004"
+      }
+   },
+   "490731": {
+      "level_name": "+45,000 - 16",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "45.0",
+         "RelativeObjectTopElevation": "47.800000000000004"
+      }
+   },
+   "490732": {
+      "level_name": "+45,000 - 16",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "45.0",
+         "RelativeObjectTopElevation": "47.800000000000004"
+      }
+   },
+   "490733": {
+      "level_name": "+45,000 - 16",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "45.0",
+         "RelativeObjectTopElevation": "47.800000000000004"
+      }
+   },
+   "490734": {
+      "level_name": "+45,000 - 16",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "45.0",
+         "RelativeObjectTopElevation": "47.800000000000004"
+      }
+   },
+   "490735": {
+      "level_name": "+45,000 - 16",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "45.0",
+         "RelativeObjectTopElevation": "47.800000000000004"
+      }
+   },
+   "490736": {
+      "level_name": "+42,000 - 15",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78209999999999",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "42.0",
+         "RelativeObjectTopElevation": "44.800000000000004"
+      }
+   },
+   "490737": {
+      "level_name": "+48,000 - 17",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.8221",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "48.0",
+         "RelativeObjectTopElevation": "50.800000000000004"
+      }
+   },
+   "490738": {
+      "level_name": "+6,000 - 3",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.782100000000014",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "6.0",
+         "RelativeObjectTopElevation": "8.8"
+      }
+   },
+   "490739": {
+      "level_name": "+6,000 - 3",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "6.0",
+         "RelativeObjectTopElevation": "8.8"
+      }
+   },
+   "490740": {
+      "level_name": "+6,000 - 3",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "6.0",
+         "RelativeObjectTopElevation": "8.8"
+      }
+   },
+   "490741": {
+      "level_name": "+6,000 - 3",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.68000000000002",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "6.0",
+         "RelativeObjectTopElevation": "8.8"
+      }
+   },
+   "490742": {
+      "level_name": "+6,000 - 3",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "6.0",
+         "RelativeObjectTopElevation": "8.8"
+      }
+   },
+   "490743": {
+      "level_name": "+9,000 - 4",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "9.0",
+         "RelativeObjectTopElevation": "11.8"
+      }
+   },
+   "490744": {
+      "level_name": "+9,000 - 4",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999999",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "9.0",
+         "RelativeObjectTopElevation": "11.8"
+      }
+   },
+   "490745": {
+      "level_name": "+9,000 - 4",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "9.0",
+         "RelativeObjectTopElevation": "11.8"
+      }
+   },
+   "490746": {
+      "level_name": "+9,000 - 4",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "9.0",
+         "RelativeObjectTopElevation": "11.8"
+      }
+   },
+   "490747": {
+      "level_name": "+9,000 - 4",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "9.0",
+         "RelativeObjectTopElevation": "11.8"
+      }
+   },
+   "490748": {
+      "level_name": "+12,000 - 5",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78209999999995",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "12.0",
+         "RelativeObjectTopElevation": "14.8"
+      }
+   },
+   "490749": {
+      "level_name": "+12,000 - 5",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82209999999991",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "12.0",
+         "RelativeObjectTopElevation": "14.8"
+      }
+   },
+   "490750": {
+      "level_name": "+12,000 - 5",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.782099999999936",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "12.0",
+         "RelativeObjectTopElevation": "14.8"
+      }
+   },
+   "490751": {
+      "level_name": "+12,000 - 5",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.782099999999936",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "12.0",
+         "RelativeObjectTopElevation": "14.8"
+      }
+   },
+   "490752": {
+      "level_name": "+12,000 - 5",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78209999999995",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "12.0",
+         "RelativeObjectTopElevation": "14.8"
+      }
+   },
+   "490753": {
+      "level_name": "+15,000 - 6",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.782100000000064",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "14.999999999999996",
+         "RelativeObjectTopElevation": "17.799999999999997"
+      }
+   },
+   "490754": {
+      "level_name": "+15,000 - 6",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.82210000000006",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "14.999999999999996",
+         "RelativeObjectTopElevation": "17.799999999999997"
+      }
+   },
+   "490755": {
+      "level_name": "+15,000 - 6",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000004",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "14.999999999999996",
+         "RelativeObjectTopElevation": "17.799999999999997"
+      }
+   },
+   "490756": {
+      "level_name": "+15,000 - 6",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000005",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "14.999999999999996",
+         "RelativeObjectTopElevation": "17.799999999999997"
+      }
+   },
+   "490757": {
+      "level_name": "+15,000 - 6",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.782100000000064",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "14.999999999999996",
+         "RelativeObjectTopElevation": "17.799999999999997"
+      }
+   },
+   "490758": {
+      "level_name": "+18,000 - 7",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "18.0",
+         "RelativeObjectTopElevation": "20.8"
+      }
+   },
+   "490759": {
+      "level_name": "+18,000 - 7",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "70.56",
+         "GrossCeilingArea": "36.64",
+         "NetPerimeter": "24.23",
+         "NetWallArea": "56.8221",
+         "NetCeilingArea": "36.64",
+         "GrossPerimeter": "25.2",
+         "GrossFloorArea": "36.64",
+         "GrossVolume": "102.59200000000003",
+         "RelativeObjectBottomElevation": "18.0",
+         "RelativeObjectTopElevation": "20.8"
+      }
+   },
+   "490760": {
+      "level_name": "+18,000 - 7",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "18.0",
+         "RelativeObjectTopElevation": "20.8"
+      }
+   },
+   "490761": {
+      "level_name": "+18,000 - 7",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "18.0",
+         "RelativeObjectTopElevation": "20.8"
+      }
+   },
+   "490762": {
+      "level_name": "+18,000 - 7",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68",
+         "NetPerimeter": "32.63000000000001",
+         "NetWallArea": "60.78210000000001",
+         "NetCeilingArea": "62.67999999999999",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68",
+         "GrossVolume": "175.50400000000002",
+         "RelativeObjectBottomElevation": "18.0",
+         "RelativeObjectTopElevation": "20.8"
+      }
+   },
+   "490763": {
+      "level_name": "+3,000 - 2",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.629999999999995",
+         "NetWallArea": "60.782099999999986",
+         "NetCeilingArea": "62.68000000000001",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000005",
+         "RelativeObjectBottomElevation": "3.0",
+         "RelativeObjectTopElevation": "5.8"
+      }
+   },
+   "490764": {
+      "level_name": "+3,000 - 2",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "72.8",
+         "GrossCeilingArea": "38.87999999999999",
+         "NetPerimeter": "25.03000000000001",
+         "NetWallArea": "58.942099999999996",
+         "NetCeilingArea": "38.87999999999999",
+         "GrossPerimeter": "26.0",
+         "GrossFloorArea": "38.87999999999999",
+         "GrossVolume": "108.86399999999999",
+         "RelativeObjectBottomElevation": "3.0",
+         "RelativeObjectTopElevation": "5.8"
+      }
+   },
+   "490765": {
+      "level_name": "+3,000 - 2",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.08000000000001",
+         "GrossCeilingArea": "62.68000000000001",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.680000000000014",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.68000000000001",
+         "GrossVolume": "175.50400000000008",
+         "RelativeObjectBottomElevation": "3.0",
+         "RelativeObjectTopElevation": "5.8"
+      }
+   },
+   "490766": {
+      "level_name": "+3,000 - 2",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.07999999999998",
+         "GrossCeilingArea": "62.679999999999964",
+         "NetPerimeter": "32.629999999999995",
+         "NetWallArea": "60.782099999999986",
+         "NetCeilingArea": "62.679999999999986",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.679999999999964",
+         "GrossVolume": "175.504",
+         "RelativeObjectBottomElevation": "3.0",
+         "RelativeObjectTopElevation": "5.8"
+      }
+   },
+   "490767": {
+      "level_name": "+3,000 - 2",
+      "properties": {
+         "Отделка потолка": "",
+         "Категория помещения": "",
+         "Примечание": "",
+         "Отделка пола": "",
+         "Отделка стен": ""
+      },
+      "quantites": {
+         "NominalHeight": "2.8000000000000003",
+         "GrossWallArea": "94.07999999999998",
+         "GrossCeilingArea": "62.67999999999996",
+         "NetPerimeter": "32.63",
+         "NetWallArea": "60.7821",
+         "NetCeilingArea": "62.67999999999995",
+         "GrossPerimeter": "33.6",
+         "GrossFloorArea": "62.67999999999996",
+         "GrossVolume": "175.5039999999999",
+         "RelativeObjectBottomElevation": "3.0",
+         "RelativeObjectTopElevation": "5.8"
+      }
+   }
+}
